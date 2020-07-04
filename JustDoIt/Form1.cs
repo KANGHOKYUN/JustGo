@@ -17,5 +17,9 @@ namespace JustDoIt
             InitializeComponent();
         }
 
+        private void btnDo_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("BBBBBBB");
+        }
     }
 }

@@ -39,6 +39,7 @@
             this.btnDo.TabIndex = 0;
             this.btnDo.Text = "DoSomething";
             this.btnDo.UseVisualStyleBackColor = true;
+            this.btnDo.Click += new System.EventHandler(this.btnDo_Click);
             // 
             // Form1
             // 
