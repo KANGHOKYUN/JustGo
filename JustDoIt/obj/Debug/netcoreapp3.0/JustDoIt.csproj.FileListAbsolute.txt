@@ -1,0 +1,11 @@
+C:\Users\gyun0\source\repos\JustDoIt\JustDoIt\bin\Debug\netcoreapp3.0\JustDoIt.exe
+C:\Users\gyun0\source\repos\JustDoIt\JustDoIt\bin\Debug\netcoreapp3.0\JustDoIt.deps.json
+C:\Users\gyun0\source\repos\JustDoIt\JustDoIt\bin\Debug\netcoreapp3.0\JustDoIt.runtimeconfig.json
+C:\Users\gyun0\source\repos\JustDoIt\JustDoIt\bin\Debug\netcoreapp3.0\JustDoIt.runtimeconfig.dev.json
+C:\Users\gyun0\source\repos\JustDoIt\JustDoIt\bin\Debug\netcoreapp3.0\JustDoIt.dll
+C:\Users\gyun0\source\repos\JustDoIt\JustDoIt\bin\Debug\netcoreapp3.0\JustDoIt.pdb
+C:\Users\gyun0\source\repos\JustDoIt\JustDoIt\obj\Debug\netcoreapp3.0\JustDoIt.csprojAssemblyReference.cache
+C:\Users\gyun0\source\repos\JustDoIt\JustDoIt\obj\Debug\netcoreapp3.0\JustDoIt.AssemblyInfoInputs.cache
+C:\Users\gyun0\source\repos\JustDoIt\JustDoIt\obj\Debug\netcoreapp3.0\JustDoIt.AssemblyInfo.cs
+C:\Users\gyun0\source\repos\JustDoIt\JustDoIt\obj\Debug\netcoreapp3.0\JustDoIt.dll
+C:\Users\gyun0\source\repos\JustDoIt\JustDoIt\obj\Debug\netcoreapp3.0\JustDoIt.pdb
